@@ -1,0 +1,1 @@
+GatesInterviewQuestion.d: ../GatesInterviewQuestion.cpp
